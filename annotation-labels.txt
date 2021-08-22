@@ -1,0 +1,5 @@
+[DATE] - August 21, 2021
+[COMPANY] - Hungry Hugger
+[SERVICE] - e-commerce
+[URL] - www.hungryhugger.com
+[CONTACT EMAIL] - hello@hungryhugger.com
